@@ -1,5 +1,7 @@
 # Hello.
 
+I am...
+
 Building systems under constraints.
 
 Interested in protocols, distributed systems, automation and software architecture.
